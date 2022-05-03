@@ -1,0 +1,66 @@
+
+/*Portada*/
+.portada {
+    background-color: #332f36;
+    position: sticky;
+    left: 0;
+    right: 0;
+    text-align: center; }
+
+.portada img {
+    max-width: 300px; }
+
+/*Estilos letras y titulos*/
+.fuente {
+    font-family: Arial, Helvetica, sans-serif; }
+.titulos {
+    color: #b84141;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    word-spacing: 4px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 15px; }
+
+.btnMenu {
+    margin-top: 10px;
+    width: 10%;
+    color: #e7e7d8;
+    background-color: #b84141;
+    border-radius: 6px;
+}
+
+.btnComprar {
+    background-color: #b84141;
+    color: #e7e7d8;
+    padding: 8px;
+    margin: 5px;
+}
+
+.reproducirDisco {
+    background-color: #a5a0a0;
+    color: #b84141;
+}
+
+
+/*Contacto*/
+footer {
+    margin-top: 15px;
+    padding-top: 15px;
+    background-color: #a5a0a0;
+    color: #e7e7d8; }
+
+/*Redes Sociales*/
+.redes {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    margin-top: 15px; }
+
+.redes a {
+    margin-left: 15px;
+    margin-bottom: 50px; }

@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "1",
+        "nombre": "Buscando en los demas",
+        "precio": "600",
+        "src": "./images/buscandoenlosdemas.png",
+        "reproducir": "https://open.spotify.com/album/53Ta9qkjbsOMfDi4wuhC3V?si=Df0OSRq9TI6zDxQRO5JuRg"
+    },
+    {
+        "id" : "2",
+        "nombre": "Campanas",
+        "precio": "600",
+        "src": "./images/campanas.png",
+        "reproducir": "https://open.spotify.com/album/0Cd38f3DmZ6sHXIFFKuqXU?si=8HYXT2WKT4eAAS_44BqyWA"
+    },
+    {
+        "id" : "3",
+        "nombre": "En sus Zapatos",
+        "precio": "550",
+        "src": "./images/suszapa.png",
+        "reproducir": "https://open.spotify.com/album/3v6lwLjqtvzNZKg6bMFjr1?si=YfwCxVd3R2Oal6IQe1g9NA"
+    },
+    {
+        "id" : "4",
+        "nombre": "De Vivo",
+        "precio": "500",
+        "src": "./images/devivo.png",
+        "reproducir": "https://open.spotify.com/album/2EbxPEl3sQMsSkbczMnQqL?si=bHakdhGRT2eIkAWufsOSIg"
+    },
+    {
+        "id" : "5",
+        "nombre": "Vamo Aprovecha",
+        "precio": "500",
+        "src": "./images/vamoaprovecha.png",
+        "reproducir": "https://open.spotify.com/album/5wwJh07J3pPtczdroRxQ6M?si=iiO3QhspQNO-SFZdcc2Zqw"
+    },
+    {
+        "id" : "6",
+        "nombre": "Extraño",
+        "precio": "550",
+        "src": "./images/extrano.png",
+        "reproducir": "https://open.spotify.com/album/1lSCXixz7FHkmDxXy1psRK?si=3T5MQYB5QHmmVTQrwZwOjA"
+    }
+]
